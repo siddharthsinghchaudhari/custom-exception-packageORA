@@ -1,0 +1,4 @@
+# messages_en.yml
+USER_NOT_FOUND: "User not found"
+VALIDATION_FAILED: "Input validation failed"
+INTERNAL_ERROR: "Something went wrong"

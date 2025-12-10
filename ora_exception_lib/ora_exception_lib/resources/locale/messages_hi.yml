@@ -1,0 +1,7 @@
+# messages_hi.yml
+USER_NOT_FOUND: "उपयोगकर्ता नहीं मिला"
+VALIDATION_FAILED: "इनपुट सत्यापन विफल"
+INTERNAL_ERROR: "कुछ गलत हो गया"
+
+
+

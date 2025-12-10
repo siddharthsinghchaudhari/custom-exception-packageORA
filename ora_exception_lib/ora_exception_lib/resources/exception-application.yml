@@ -1,0 +1,18 @@
+errors:
+  USER_NOT_FOUND:
+    code: "USER_NOT_FOUND"
+    category: "DATA"
+    message: "User not found"
+    status: 404
+
+  VALIDATION_FAILED:
+    code: "VALIDATION_FAILED"
+    category: "REQUEST"
+    message: "Input validation failed"
+    status: 400
+
+  INTERNAL_ERROR:
+    code: "INTERNAL_ERROR"
+    category: "SYSTEM"
+    message: "Something went wrong"
+    status: 500
